@@ -558,7 +558,7 @@ body {
 /* ( a ) Story of Glory */
 
 .profile-page .image-container {
-    background: url(../img/about_us_featured.png);
+    background: url(../img/smallabout.jpg);
     background-size: cover;
     background-position: bottom;
 }
