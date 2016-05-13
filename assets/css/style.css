@@ -187,7 +187,7 @@ textarea,
 button,
 input {
     /*font-family: 'Playfair Display', serif;*/
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 h1,
@@ -449,7 +449,7 @@ body {
 
 .menu > div h2 {
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-size: 35px;
     font-weight: 100;
     text-align: center;
@@ -645,7 +645,10 @@ body {
     column-gap: 30px;
     font-size: 14px;
 }
-
+.aboutpic{
+    background: url(../img/aboutfeat.jpg)
+    
+}
 
 /* First, define the common wrapper elements
    Padding-top is for the fixed height header of the embedded content */
@@ -975,7 +978,7 @@ body {
 .back p {
     text-align: center;
     padding: 0 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lato', sans-serif;
     line-height: 1.82em;
 }
 
