@@ -680,7 +680,7 @@ body {
 /* ( a ) Portfolio Section */
 
 .portfolio-page .image-container {
-    background: url(../img/portfolio_featured.png);
+    background: url(../img/smallportfolio.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -692,8 +692,8 @@ body {
 
 .filter {
     background: none;
-    border: 1px solid #00B796;
-    color: #00B796;
+    border: 1px solid #ec8c01;
+    color: #ec8c01;
     margin: 10px 0;
     padding: 10px 25px;
     -webkir-transition: all 0.3s;
@@ -702,12 +702,12 @@ body {
 }
 
 .filter:hover {
-    background: #00B796;
+    background: #ec8c01;
     color: #fff;
 }
 
 .filter.active {
-    background: #00B796;
+    background: #ec8c01;
     color: #fff;
 }
 
@@ -1091,9 +1091,9 @@ body {
 }
 
 .contact-info .data i {
-    background: #C78443;
+    background: #b6000d;
     border-radius: 50%;
-    border: 1px solid #C78443;
+    border: 1px solid #b6000d;
     color: #ffffff;
     font-size: 25px;
     height: 60px;
@@ -1153,16 +1153,16 @@ body {
 }
 
 .contact-page .image-container {
-    background: url(../img/contact_featured.png);
+    background: url(../img/smallcontact.jpg);
     background-size: cover;
     background-position: bottom;
 }
 
 input#cfsubmit {
     background-color: transparent;
-    border: 1px solid #C78443;
+    border: 1px solid #b6000d;
     border-radius: 0px;
-    color: #C78443;
+    color: #b6000d;
     margin: 20px 0px 40px 0px;
     box-shadow: none;
     -webkit-transition: all 0.3s ease-in-out;
@@ -1200,7 +1200,7 @@ input#cfsubmit:hover {
 }
 
 .portfolio-page .footer {
-    background-color: #004824;
+    background-color: #ec8c01;
 }
 
 .service-page .footer {
@@ -1208,7 +1208,7 @@ input#cfsubmit:hover {
 }
 
 .contact-page .footer {
-    background-color: #935B25;
+    background-color: #b6000d;
 }
 
 .footer .copyright {
