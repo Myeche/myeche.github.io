@@ -204,7 +204,7 @@ p {
     /*font-size: 14px;*/
     font-size: 1em;
     line-height: 1.42;
-    text-align: center;
+ 
 }
 
 h1 {
@@ -259,7 +259,9 @@ h3 {
 body {
     overflow-x: hidden;
 }
-
+a {
+   color: #b6000d
+}
 
 /*---------------------
    4 ) Homepage Styles
