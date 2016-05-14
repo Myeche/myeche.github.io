@@ -217,6 +217,7 @@ h2 {
     font-size: 3.375em;
     font-weight: 300;
     color:#ec8c01;
+    margin-bottom: 5%;
 }
 
 h2.small-heading {
@@ -252,8 +253,9 @@ h2.small-heading:before {
 }
 
 h3 {
-    font-size: 2.25em;
+    font-size: 1.5em;
     font-weight: 400;
+    color:#b6000d;
 }
 
 body {
@@ -745,7 +747,7 @@ a {
 }
 
 .project .ovrly {
-    background: rgba(0, 183, 150, 0.5);
+    background: rgba(236, 140, 1, 0.2);
     position: absolute;
     height: 100%;
     left: 0;
@@ -841,7 +843,7 @@ a {
 }
 
 .popup_content a {
-    border: 1px solid #00B796;
+    border: 1px solid #b6000d;
     color: #00B796;
     display: block;
     width: 150px;
@@ -854,7 +856,7 @@ a {
 }
 
 .popup_content a:hover {
-    background: #00B796;
+    background:#b6000d;
     color: #fff;
 }
 
@@ -1166,9 +1168,9 @@ a {
 
 input#cfsubmit {
     background-color: transparent;
-    border: 1px solid #b6000d;
+    border: 1px solid #ec8c01;
     border-radius: 0px;
-    color: #b6000d;
+    color: #ec8c01;
     margin: 20px 0px 40px 0px;
     box-shadow: none;
     -webkit-transition: all 0.3s ease-in-out;
