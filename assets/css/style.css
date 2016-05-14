@@ -585,7 +585,7 @@ a {
 
 .facts-overlay {
     padding: 40px;
-    background-color: rgb(35, 46, 52);
+    background-color: #fff;
 }
 
 .facts i {
@@ -594,7 +594,7 @@ a {
 }
 
 .facts p {
-    color: #fff;
+    color: #343333;
 }
 
 .facts p.count {
@@ -632,7 +632,11 @@ a {
     width: 560px;
     height: 315px;
 }
-
+.aboutspan{
+    color: #b6000d;
+    font-weight: 600;
+        
+}
 .about-us-desc p:first-child {
     font-size: 17px;
 }
