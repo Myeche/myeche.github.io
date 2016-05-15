@@ -827,7 +827,7 @@ a {
 
 .popup_content {
     max-width: 500px;
-    border: 5px solid #00B796;
+    border: 5px solid #b6000d;
     background: #fff;
 }
 
@@ -848,7 +848,7 @@ a {
 
 .popup_content a {
     border: 1px solid #b6000d;
-    color: #00B796;
+    color: #b6000d;
     display: block;
     width: 150px;
     margin: 30px auto;
